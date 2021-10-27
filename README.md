@@ -1,9 +1,9 @@
 # Transport-Optimal-Regression-Quantile
 
-# Transport d'une distribution cas discret et semi discret
+## Transport d'une distribution cas discret et semi discret
 
-# La notion de quantile en dimension supérieure
+## La notion de quantile en dimension supérieure
 
-# Régression quantile
+## Régression quantile
 
-# Application à un jeu de données anthropométriques
+## Application à un jeu de données anthropométriques
